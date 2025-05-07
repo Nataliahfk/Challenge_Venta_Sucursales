@@ -22,4 +22,4 @@ Decide qué tipos de gráficos utilizar para presentar los resultados de forma c
 Mínimo de 3 gráficos diferentes, que pueden incluir gráficos de barras, circulares, de dispersión y otros.
 
 Enviar una recomendación:
-Después del análisis, escriba un texto explicando a qué tienda debería vender el Sr. João y por qué, basándose en los datos presentados.
+Después del análisis, escriba un texto explicando a qué tienda debería vender el Sr. Juan y por qué, basándose en los datos presentados.
